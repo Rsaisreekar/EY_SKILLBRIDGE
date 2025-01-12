@@ -1,3 +1,35 @@
+
+**Generative AI & Multi-Agent System for Bridging Skill Gaps
+Problem Context**
+Students often struggle to bridge the gap between academic knowledge and the skills required in today’s rapidly evolving job market. Traditional learning methods lack personalization and fail to adapt to industry trends, leaving students unprepared for employability challenges.
+
+**Proposed Solution**
+This project introduces a web app that leverages Generative AI and multi-agent systems to bridge skill gaps, improve employability, and empower students to achieve their career goals. The platform offers personalized guidance, actionable insights, and dynamic content tailored to individual learning needs.
+
+**Key Features**
+**Personalized Skill Assessment**
+The web app conducts AI-driven evaluations to identify a student’s current skill level, strengths, and areas for improvement.
+
+**Multi-Agent Dynamic Learning Paths**
+Generative AI, guided by the multi-agent system, curates personalized learning paths and resources, ensuring each student gets a tailored educational experience that adapts to their goals and pace.
+
+**Progress Tracking and Feedback
+**The web app includes a progress tracker that allows students to monitor their learning journey with clear milestones, performance analytics, and real-time feedback to improve specific skill areas.
+
+**Industry Alignment
+**By integrating APIs for real-time market analysis, the platform ensures that learning materials remain relevant to the latest industry demands, preparing students with in-demand skills.
+
+**Installation**
+Prerequisites
+Ensure you have the following installed on your system:
+
+Python 3.7 or higher
+pip (Python package installer)Technologies Used
+Generative AI: Used for personalized learning paths and skill assessments.
+Multi-Agent Systems: For dynamic curriculum generation.
+reactjs for user interface
+Python: Main programming language.
+APIs: To fetch real-time market analysis and trend
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
